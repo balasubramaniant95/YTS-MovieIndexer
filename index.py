@@ -14,7 +14,6 @@ headers = {
 
 def call_api(uri):
     global headers
-    print(uri)
     try:
         req = request.Request(method="GET", url=uri, headers=headers)
         req = request.urlopen(req)
