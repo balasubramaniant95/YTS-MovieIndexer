@@ -1,0 +1,8 @@
+# pycharm config files
+.idea/
+
+# detenv
+.env
+
+# virtual env files
+venv/
