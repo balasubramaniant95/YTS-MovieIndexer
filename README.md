@@ -1,8 +1,8 @@
-# yts-api
+# yts-movie-indexer
 A fun and very basic repo exploring yts.lt's api capabilities for movie indexing and search. Uses basic api calls through python's urllib and pretty prints the results.
 
 API Documentation:
-https://yts.tl/api
+https://yts.mx/api
 
 ***
 ### Capabilities
